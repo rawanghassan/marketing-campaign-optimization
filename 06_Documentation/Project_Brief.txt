@@ -1,0 +1,42 @@
+PROJECT TITLE
+Marketing Campaign Optimization
+
+BUSINESS PROBLEM
+The company invests across multiple marketing channels and campaigns but lacks a clear understanding of which campaigns generate the highest engagement, conversions, and return on investment.
+
+PROJECT OBJECTIVE
+Analyze marketing campaign performance using SQL and Tableau to identify profitable channels, high-performing audience segments, inefficient campaigns, and opportunities to optimize marketing budget allocation.
+
+KEY BUSINESS QUESTIONS
+
+1. Which marketing channels generate the highest ROI?
+
+2. Which campaigns achieve the highest conversion rates?
+
+3. Which campaigns have high spending but low revenue?
+
+4. What is the cost per conversion for each marketing channel?
+
+5. Which audience segments generate the most revenue?
+
+6. How does campaign performance change over time?
+
+7. Which campaigns should receive additional budget?
+
+8. Which campaigns require optimization or reduced spending?
+
+TOOLS
+
+SQL
+PostgreSQL
+pgAdmin
+Tableau
+
+EXPECTED OUTPUT
+
+Clean marketing dataset
+SQL analysis
+Interactive Tableau dashboard
+Business insights
+Budget optimization recommendations
+Portfolio case study
