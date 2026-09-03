@@ -89,7 +89,7 @@ The project was designed to answer questions such as:
 
 6. Open the Tableau workbook:
 
-   `04_Tableau/Marketing_Campaign_Optimization_Final.twbx`
+   [Download Tableau Workbook](04_Tableau/Marketing_Campaign_Optimization_Final.twbx)
 
 7. The Tableau-ready dataset is also available at:
 
@@ -318,17 +318,17 @@ The SQL workflow is organized sequentially so the project can be followed from r
 
 ## Data Dictionary
 
-A complete data dictionary is available in:
+A complete data dictionary is available here:
 
-`06_Documentation/Data_Dictionary.md`
+[View Data Dictionary](06_Documentation/Data_Dictionary.md)
 
 ---
 
 ## Key Insights Documentation
 
-Detailed analytical findings and recommendations are available in:
+Detailed analytical findings and recommendations are available here:
 
-`06_Documentation/Key_Insights.md`
+[View Key Insights](06_Documentation/Key_Insights.md)
 
 ---
 
