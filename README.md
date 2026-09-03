@@ -39,6 +39,54 @@ The project was designed to answer questions such as:
 - **GitHub**
 
 ---
+## How to Reproduce
+
+1. Download or clone this repository.
+
+2. Create a PostgreSQL database named:
+
+   `marketing_campaign_db`
+
+3. Run:
+
+   `02_SQL/01_create_raw_table.sql`
+
+   to create the raw marketing campaign table.
+
+4. Import:
+
+   `01_Raw_Data/marketing_campaign_raw_data.csv`
+
+   into the `marketing_campaigns_raw` table using pgAdmin:
+
+   - Format: CSV
+   - Encoding: UTF8
+   - Header: Yes
+   - Delimiter: `,`
+
+5. Run the remaining SQL scripts in numerical order:
+
+   `02_data_quality_assessment.sql`  
+   `03_clean_marketing_data.sql`  
+   `04_validate_clean_data.sql`  
+   `05_overall_marketing_kpis.sql`  
+   `06_channel_performance_analysis.sql`  
+   `07_campaign_performance_analysis.sql`  
+   `08_audience_segment_analysis.sql`  
+   `09_region_performance_analysis.sql`  
+   `10_monthly_trend_analysis.sql`  
+   `11_device_and_campaign_type_analysis.sql`  
+   `12_create_tableau_view.sql`
+
+6. Open the Tableau workbook:
+
+   `04_Tableau/Marketing_Campaign_Optimization_Final.twbx`
+
+7. The Tableau-ready dataset is also available at:
+
+   `03_Clean_Data/marketing_campaign_tableau.csv`
+
+---
 
 ## Project Workflow
 
