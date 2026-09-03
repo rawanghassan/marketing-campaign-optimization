@@ -11,6 +11,15 @@ The dataset contains **6,252 raw records** covering marketing activity from **Ja
 > This is a portfolio project built with a realistic marketing campaign dataset for analytical demonstration.
 
 ---
+## Dataset Source
+
+The dataset used in this project is a synthetic marketing campaign dataset created for portfolio and analytical demonstration purposes.
+
+It was designed to simulate realistic marketing campaign performance across multiple channels, campaigns, audience segments, regions, devices, and campaign types.
+
+The dataset does not contain real customer information or personally identifiable data.
+
+---
 
 ## Business Problem
 
