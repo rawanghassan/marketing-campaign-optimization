@@ -1,0 +1,25 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.log
+*.bak
+~$*
+
+# Tableau temporary/autosave files
+*.twb~
+*.twbx~
+*.hyper.tmp
+
+# PostgreSQL / pgAdmin backup artifacts
+*.backup
+*.dump
+
+# Editor / IDE files
+.vscode/
+.idea/
+__pycache__/
